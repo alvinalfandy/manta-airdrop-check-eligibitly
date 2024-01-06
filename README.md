@@ -1,5 +1,4 @@
 # Manta airdrop check eligibitly
 
 ## Link
-
-https://alfandy.tech/check/manta
+https://alfandy.tech/checker/manta.html
